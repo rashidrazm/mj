@@ -10854,10 +10854,7 @@ p {
   padding-left: 154px;
 }
 .mj-logo{
-  width: 252px;
-  position: absolute;
-  left: 260px;
-  top: -27px;
+  max-width: 12%;
 }
 .site-heading .site-heading-lower {
   font-size: 4rem;
